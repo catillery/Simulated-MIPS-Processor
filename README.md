@@ -1,4 +1,4 @@
-# MIPS-Processor
+# Simulated MIPS Processor
 A MIPS processor implemented using VHDL. The processor supports all the functionalities expected in a standard MIPS processor.
 
 ## Getting Started and Executing the Processor
