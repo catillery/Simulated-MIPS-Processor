@@ -3,7 +3,7 @@ A MIPS processor implemented using VHDL. The processor supports all the function
 
 ## Getting Started and Executing the Processor
 
-In order to execute the code you will need to download and install a VHDL IDE.
+In order to execute the code you will need to download and install a VHDL IDE. If you'd like to view the processor functionaility without executing the code then you can download and watch *MIPS.FLV*.
 
 ## Supported Functionality
 * *add (signed or unsigned)* - Adds two 32-bit numbers.
