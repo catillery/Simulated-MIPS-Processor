@@ -5,7 +5,7 @@ A MIPS processor implemented using VHDL. The processor supports all the function
 
 In order to execute the code you will need to download and install a VHDL IDE. If you'd like to view the processor functionaility without executing the code then you can download and watch *MIPS.FLV*.
 
-## Supported Functionality
+## Supported Operations
 * *add (signed or unsigned)* - Adds two 32-bit numbers.
 * *addi (signed or unsigned)* - Adds an immediate value with a 32-bit number.
 * *sub (signed or unsigned)* - Subtracts two 32-bit numbers.
